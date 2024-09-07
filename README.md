@@ -85,9 +85,91 @@ Veja o retorno do Chat quando faço uma pergunta sobre mutilação.
 
 `Depois de trilhar essa jornada pelo **Estúdio de IA do Azure / OpenAI**, apaguei os projeto no Estúdio de IA do Azure / OpenAI e no Portal da Azure, para não ocorrer cobranças desnecessárias.`
 
+#Explore o Microsoft Copilot no Microsoft Edge
 
+###Qual o objetivo deste exercício?
 
+**Neste exercício, você explorará algumas das maneiras pelas quais o Microsoft Copilot pode usar a IA generativa para ajudá-lo a ser mais produtivo ao criar novos conteúdos. No cenário deste exercício, você começará com algumas anotações de alto nível para uma ideia de negócio e usará o Copilot no Microsoft Edge para ajudá-lo a desenvolver um plano de negócios e uma apresentação para potenciais investidores.**
 
+Seguinto as instruções do [link https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
+
+Acessei documento indicado, subi para o OneDrive e abri no Word 365 online, traduzindo com recurso do 365 o texto.
+
+O texto trás algumas ideias de alto nível para uma empresa de limpeza. Usei o ícone do Copilot na barra de ferramentas do Edge para abrir o painel do Copilot, conforme mostrado a seguir:
+
+![tela02c](inputs/tela01c.jpg)
+
+Agora vamos utilizaro Copilot para saber mais sobre o documento, perguntei "Sobre o que é este documento?"
+
+A resposta, após analisar o conteúdo do texto foi:
+
+Este documento apresenta uma ideia de negócio para uma empresa de limpeza em Nova York, especializada em limpar escritórios e locais comerciais. Aqui estão os principais pontos:
+
+- Materiais ecológicos: Utilizar materiais de limpeza que sejam bons para o meio ambiente.
+- Contratação local: Empregar contratados locais e fornecer a eles os equipamentos necessários.
+- Análise de mercado: Há uma oportunidade promissora, com um mercado crescente para produtos de limpeza ecológicos.
+- Diferenciação: Oferecer soluções de limpeza personalizadas e flexíveis para se destacar da concorrência.
+
+Ainda no texto, fiz a seguinte pergunra "Como faço para abrir um negócio em Nova York?"
+
+A resposta foi:
+
+Abrir um negócio em Nova York pode ser uma ótima oportunidade! Aqui estão os passos principais para começar:
+
+- 1. **Escolha a Estrutura da Empresa**: Decida se você quer abrir uma LLC, uma corporação, uma parceria ou uma empresa individual. Cada tipo tem suas vantagens e desvantagens.
+
+- 2. **Escolha um Nome para a Empresa**: Certifique-se de que o nome escolhido seja único e não esteja registrado por outra empresa. Você pode verificar a disponibilidade no site do Departamento de Estado de Nova York.
+
+- 3. **Registre a Empresa**: Registre sua empresa no Departamento de Estado de Nova York. Para uma LLC, por exemplo, você precisará arquivar os Artigos de Organização.
+
+- 4. **Obtenha um EIN**: O Número de Identificação do Empregador (EIN) é necessário para fins fiscais e pode ser obtido no site do IRS.
+
+- 5. **Abra uma Conta Bancária Comercial**: Separe suas finanças pessoais das empresariais abrindo uma conta bancária para a empresa.
+
+- 6. **Obtenha Licenças e Permissões**: Dependendo do tipo de negócio, você pode precisar de licenças e permissões específicas. Verifique os requisitos no site da cidade de Nova York.
+
+- 7. **Contrate Funcionários (se necessário)**: Se você planeja contratar funcionários, certifique-se de seguir as leis trabalhistas e de emprego.
+
+- 8. **Proteja seus Ativos**: Considere obter um seguro empresarial para proteger seus ativos e cobrir possíveis riscos.
+
+- 9. **Comply with Tax and Accounting Obligations**: Mantenha registros financeiros precisos e cumpra todas as obrigações fiscais. Pode ser útil contratar um contador.
+
+Para mais detalhes, você pode consultar guias específicos para imigrantes e empreendedores internacionais⁴⁵.
+
+Se precisar de mais alguma coisa, estou aqui para ajudar!
+
+Fonte: conversa com o Copilot, 07/09/2024
+(1) Guia do imigrante sobre como abrir um negócio em Nova York. https://blog.remitly.com/pt/imigracao-pt/abrir-negocio-nova-yok/.
+(2) Como abrir uma empresa nos EUA: Passo a passo e vantagens - Remessa Online. https://www.remessaonline.com.br/blog/como-abrir-uma-empresa-nos-eua-passo-a-passo-e-vantagens/.
+(3) Pasos para iniciar un negocio en New York City. https://www.youtube.com/watch?v=KXmZa_vPBeA.
+(4) Como abrir uma empresa nos EUA: Guia completo para iniciantes. https://www.youtube.com/watch?v=Fxm1roEwPLY.
+(5) Como abrir uma empresa nos EUA sendo um empreendedor internacional? Q&A gratuito. https://www.youtube.com/watch?v=gn6PCme3zdY.
+(6) Abrir empresa nos EUA: guia completo - Bicalho. https://bing.com/search?q=Como+abrir+um+neg%c3%b3cio+em+Nova+York.
+(7) Como abrir empresa nos EUA? Passo a passo - Wise. https://wise.com/pt/blog/abrir-empresa-eua.
+(8) Abrir empresa nos EUA: guia completo - Bicalho. https://bicalho.com/abrir-empresa-nos-eua/.
+(9) undefined. http://edukandonos.com/.
+(10) undefined. https://mailchi.mp/edukandonos.com/pr.
+
+##Usar o Copilot para criar conteúdo para um plano de negócios
+
+Com o texto aberto, fiz a seguinte pergunta ao Copilot "Sugira um nome para meu negócio de limpeza".
+
+A resposta foi:
+
+Claro! Aqui estão algumas sugestões de nomes para o seu negócio de limpeza:
+
+1. **EcoLimpeza NY**
+2. **Brilho Urbano**
+3. **Limpeza Verde**
+4. **Espaço Limpo**
+5. **Pureza Profissional**
+6. **Limpeza Suprema**
+7. **Brilho Comercial**
+8. **Limpeza Total**
+9. **Higiene Perfeita**
+10. **Limpeza Elite**
+
+Espero que alguma dessas sugestões inspire você! Se precisar de mais ideias ou quiser ajustar algum nome, estou aqui para ajudar. 😊
 
 
 

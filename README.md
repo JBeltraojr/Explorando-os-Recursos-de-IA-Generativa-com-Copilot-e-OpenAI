@@ -179,6 +179,18 @@ Após ter gerado 4 imagens, foi escolhida uma para ser colocada no Plano de Neg�
 
 ![tela02c](inputs/tela02c.jpg)
 
+#Usar o Copilot para criar conteúdo para uma apresentação.
+
+Agora criar uma apresentação eficaz para convencer um investidor a me emprestar o financiamento para iniciar o negócio. para isso irei abrir o PowerPoint, e uma nova apresentação.
+
+Cabeçalho **Benefícios de contratar um limpador comercial**, pedi ao Copilot para criar o seguinte: **Escreva um resumo dos benefícios de usar uma empresa de limpeza corporativa para o seu negócio. O resumo deve consistir em cinco pontos curtos.**
+
+Continuando com a montagem de minha apresentação, pediao Copilot para gerar a seguinte imagem, "Crie uma imagem fotorrealista de um escritório limpo.
+
+Após ter todos os elementos de minha apresentação, ela ficou assim:
+
+![tela03c](inputs/tela03c.jpg)
+
 
 
 

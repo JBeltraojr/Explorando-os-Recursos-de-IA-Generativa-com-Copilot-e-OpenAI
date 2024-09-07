@@ -199,7 +199,7 @@ Usando o meu Outlook, iniciei um novo email, onde fiz a seguinte pergunta "Solic
 
 ![tela04c](inputs/tela04c.jpg)
 
-3 Conclusão
+# Conclusão
 Neste exercício, usei o Copilot no Microsoft Edge para localizar informações e gerar conteúdo.
 
 

@@ -15,6 +15,8 @@ No Portal do Azure, pesquise por **Estúdio de IA do Azure**, depois **+ Novo hu
 
 No **Estúdio de IA do Azure** pode-se criar projetos com soluções complexas de IA com base em modelos de IA generativos. Não existe a possibilidade de uma exploração completa de todas as opções de desenvolvimento disponíveis no Azure AI Studio, que está além do escopo deste exercício, mas explorei algumas maneiras básicas de modelos de projetos.
 
+Iniciei teclando na opção Novo Projeto, e conforme mostra a figura a seguir, coloquei o nome do projeto e na opção Hub, busquei o **Hub da IA do Azure** que foi criado no Portal da Azure.
+
 
 
 

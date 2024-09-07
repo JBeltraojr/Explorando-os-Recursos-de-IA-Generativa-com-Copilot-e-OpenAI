@@ -85,9 +85,9 @@ Veja o retorno do Chat quando faço uma pergunta sobre mutilação.
 
 `Depois de trilhar essa jornada pelo **Estúdio de IA do Azure / OpenAI**, apaguei os projeto no Estúdio de IA do Azure / OpenAI e no Portal da Azure, para não ocorrer cobranças desnecessárias.`
 
-#Explore o Microsoft Copilot no Microsoft Edge
+# Explore o Microsoft Copilot no Microsoft Edge
 
-###Qual o objetivo deste exercício?
+### Qual o objetivo deste exercício?
 
 **Neste exercício, você explorará algumas das maneiras pelas quais o Microsoft Copilot pode usar a IA generativa para ajudá-lo a ser mais produtivo ao criar novos conteúdos. No cenário deste exercício, você começará com algumas anotações de alto nível para uma ideia de negócio e usará o Copilot no Microsoft Edge para ajudá-lo a desenvolver um plano de negócios e uma apresentação para potenciais investidores.**
 
@@ -150,7 +150,7 @@ Fonte: conversa com o Copilot, 07/09/2024
 (9) undefined. http://edukandonos.com/.
 (10) undefined. https://mailchi.mp/edukandonos.com/pr.
 
-##Usar o Copilot para criar conteúdo para um plano de negócios
+## Usar o Copilot para criar conteúdo para um plano de negócios
 
 Com o texto aberto, fiz a seguinte pergunta ao Copilot "Sugira um nome para meu negócio de limpeza".
 
@@ -179,7 +179,7 @@ Após ter gerado 4 imagens, foi escolhida uma para ser colocada no Plano de Neg�
 
 ![tela02c](inputs/tela02c.jpg)
 
-#Usar o Copilot para criar conteúdo para uma apresentação.
+# Usar o Copilot para criar conteúdo para uma apresentação.
 
 Agora criar uma apresentação eficaz para convencer um investidor a me emprestar o financiamento para iniciar o negócio. para isso irei abrir o PowerPoint, e uma nova apresentação.
 
@@ -190,6 +190,17 @@ Continuando com a montagem de minha apresentação, pediao Copilot para gerar a 
 Após ter todos os elementos de minha apresentação, ela ficou assim:
 
 ![tela03c](inputs/tela03c.jpg)
+
+Salvei e fechei a apresentação.
+
+# Usar o Copilot para redigir um e-mail
+
+Usando o meu Outlook, iniciei um novo email, onde fiz a seguinte pergunta "Solicite uma reunião com um banco de investimento para discutir financiamento para um negócio de limpeza comercial." Após o retorno, inseri o texto gerado em um e-mail enviado para mim mesmo, o resultado foi o da imagem a seguir.
+
+![tela04c](inputs/tela04c.jpg)
+
+3 Conclusão
+Neste exercício, usei o Copilot no Microsoft Edge para localizar informações e gerar conteúdo.
 
 
 

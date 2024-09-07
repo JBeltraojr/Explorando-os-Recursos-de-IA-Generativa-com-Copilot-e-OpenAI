@@ -171,6 +171,14 @@ Claro! Aqui estão algumas sugestões de nomes para o seu negócio de limpeza:
 
 Espero que alguma dessas sugestões inspire você! Se precisar de mais ideias ou quiser ajustar algum nome, estou aqui para ajudar. 😊
 
+Insira um novo prompt, colocando um dos nomes sugeridos, ficou assim, "Escreva um plano de negócios para "Brilho Urbano" com base nas informações deste documento. Inclua um resumo executivo, uma visão geral do mercado e projeções financeiras."
+
+Copiei a resposta do Copilot e substituí o texto original do documento Business Ideas.docx e substitui o título. Agora fiz a seguinte pergunta ao Copilot "Crie um logotipo corporativo para a empresa de limpeza. O logotipo deve ser redondo e incluir um marco icônico de Nova York."
+
+Após ter gerado 4 imagens, foi escolhida uma para ser colocada no Plano de Negócio gerado anteriormente, deixando o documento, conforme a imagem a seguir.
+
+![tela02c](inputs/tela02c.jpg)
+
 
 
 
